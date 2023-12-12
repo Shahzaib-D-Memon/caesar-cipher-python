@@ -56,16 +56,8 @@ Utilizes a command-line interface to ensure a straightforward and secure interac
 
 Implements input validation techniques to ensure the integrity of user-provided data and prevent potential exploits.
 
-5.Future Enhancements
+5. Future Enhancements
 
-Implement more advanced encryption algorithms.
-Develop a graphical user interface for a more user-friendly experience.
-Explore additional cybersecurity concepts, such as key management and secure communication protocols.
-
-```
-
-```
-
-```
-
-```
+- Implement more advanced encryption algorithms.
+- Develop a graphical user interface for a more user-friendly experience.
+- Explore additional cybersecurity concepts, such as key management and secure communication protocols.
