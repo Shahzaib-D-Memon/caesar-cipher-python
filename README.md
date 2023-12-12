@@ -31,6 +31,8 @@ Python implementation of the Caesar Cipher—an encryption technique shifting al
 
 4. Follow the on-screen instructions to enter the message and shift value.
 
+![Caesar Cipher Screenshot](Run.JPG)
+
 ## Cybersecurity Principles
 
 This project incorporates the following cybersecurity principles and techniques:
