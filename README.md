@@ -15,24 +15,19 @@ Python implementation of the Caesar Cipher—an encryption technique shifting al
 
    ```bash
    git clone https://github.com/Shahzaib-D-Memon/caesar-cipher-python.git
-
    ```
 
 2. Navigate to the project directory:
 
-```bash
-
-cd caesar-cipher-python
-
-```
+   ```bash
+   cd caesar-cipher-python
+   ```
 
 3. Run the project:
 
-```bash
-
-python caesar_cipher.py
-
-```
+   ```bash
+   python caesar_cipher.py
+   ```
 
 4. Follow the on-screen instructions to enter the message and shift value.
 
@@ -42,19 +37,19 @@ This project incorporates the following cybersecurity principles and techniques:
 
 1. Cryptography Fundamentals:
 
-Demonstrates a basic understanding of cryptographic principles through the implementation of the Caesar Cipher.
+- Demonstrates a basic understanding of cryptographic principles through the implementation of the Caesar Cipher.
 
 2. Secure Coding Practices:
 
-Adheres to secure coding practices to prevent vulnerabilities and ensure the reliability of the encryption and decryption processes.
+- Adheres to secure coding practices to prevent vulnerabilities and ensure the reliability of the encryption and decryption processes.
 
 3. Command-Line Security:
 
-Utilizes a command-line interface to ensure a straightforward and secure interaction with the user.
+- Utilizes a command-line interface to ensure a straightforward and secure interaction with the user.
 
 4. User Input Validation:
 
-Implements input validation techniques to ensure the integrity of user-provided data and prevent potential exploits.
+- Implements input validation techniques to ensure the integrity of user-provided data and prevent potential exploits.
 
 5. Future Enhancements
 
